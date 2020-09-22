@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e299c6d-4a91-49e8-9fe6-ac6f471ff4a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hed2htLOGEYZJUxf5d5qRzZ5Vj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e299c6d-4a91-49e8-9fe6-ac6f471ff4a1" name="Default Changelist" comment="" />
+      <created>1600375287390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600375287390</updated>
+      <workItem from="1600375288753" duration="7440000" />
+      <workItem from="1600489942266" duration="6303000" />
+      <workItem from="1600497255299" duration="62704000" />
+      <workItem from="1600565716859" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1380" y="-66" key="#CLI_Interpreters" timestamp="1600501895328">
+      <screen x="-1920" y="-260" width="1920" height="1080" />
+    </state>
+    <state x="-1380" y="-66" key="#CLI_Interpreters/0.0.1470.864/-1920.-260.1920.1080@-1920.-260.1920.1080" timestamp="1600501895328" />
+    <state x="-1253" y="-78" key="#PHP" timestamp="1600504085973">
+      <screen x="-1920" y="-260" width="1920" height="1080" />
+    </state>
+    <state x="-1253" y="-78" key="#PHP/0.0.1470.864/-1920.-260.1920.1080@-1920.-260.1920.1080" timestamp="1600504085973" />
+    <state x="-1185" y="81" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600560747735">
+      <screen x="-1920" y="-260" width="1920" height="1080" />
+    </state>
+    <state x="-1185" y="81" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1470.864/-1920.-260.1920.1080@-1920.-260.1920.1080" timestamp="1600560747735" />
+    <state x="-1133" y="2" key="NewPhpClassDialog" timestamp="1600560959329">
+      <screen x="-1920" y="-260" width="1920" height="1080" />
+    </state>
+    <state x="-1133" y="2" key="NewPhpClassDialog/0.0.1470.864/-1920.-260.1920.1080@-1920.-260.1920.1080" timestamp="1600560959329" />
+    <state x="-1126" y="203" key="NewPhpFileDialog" timestamp="1600561014822">
+      <screen x="-1920" y="-260" width="1920" height="1080" />
+    </state>
+    <state x="-1126" y="203" key="NewPhpFileDialog/0.0.1470.864/-1920.-260.1920.1080@-1920.-260.1920.1080" timestamp="1600561014822" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/model/Database.php</url>
+          <line>15</line>
+          <properties>
+            <option name="className" value="\Database" />
+            <option name="methodName" value="__destruct" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
